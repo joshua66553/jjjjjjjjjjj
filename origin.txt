@@ -1,0 +1,64 @@
+Uri: https://www.jakehamblin.com/
+File Name: C:\Users\joshu\Documents\modern\www.jakehamblin.com\index.htm
+Content Type: text/html
+
+Uri: https://jakehamblin.com/images/logo.png
+File Name: C:\Users\joshu\Documents\modern\www.jakehamblin.com\images\logo.png
+Content Type: image/png
+
+Uri: https://jakehamblin.com/css/main.css
+File Name: C:\Users\joshu\Documents\modern\www.jakehamblin.com\css\main.css
+Content Type: text/css
+
+Uri: https://jakehamblin.com/
+File Name: C:\Users\joshu\Documents\modern\www.jakehamblin.com\index-1.htm
+Content Type: text/html
+
+Uri: https://jakehamblin.com/js/onload.js
+File Name: C:\Users\joshu\Documents\modern\www.jakehamblin.com\js\onload.js
+Content Type: application/javascript
+
+Uri: https://jakehamblin.com/images/logow.png
+File Name: C:\Users\joshu\Documents\modern\www.jakehamblin.com\images\logow.png
+Content Type: image/png
+
+Uri: https://jakehamblin.com/js/main.js
+File Name: C:\Users\joshu\Documents\modern\www.jakehamblin.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://jakehamblin.com/portfolio/
+File Name: C:\Users\joshu\Documents\modern\www.jakehamblin.com\portfolio\index.htm
+Content Type: text/html
+
+Uri: https://jakehamblin.com/temp/img/1hvii7yg.png
+File Name: C:\Users\joshu\Documents\modern\www.jakehamblin.com\temp\img\1hvii7yg.png
+Content Type: image/png
+
+Uri: https://jakehamblin.com/temp/img/0w7736bs.jpg
+File Name: C:\Users\joshu\Documents\modern\www.jakehamblin.com\temp\img\0w7736bs.jpg
+Content Type: image/jpeg
+
+Uri: https://jakehamblin.com/temp/img/wjm3z300.jpg
+File Name: C:\Users\joshu\Documents\modern\www.jakehamblin.com\temp\img\wjm3z300.jpg
+Content Type: image/jpeg
+
+Uri: https://jakehamblin.com/temp/img/0nq25jxy.jpg
+File Name: C:\Users\joshu\Documents\modern\www.jakehamblin.com\temp\img\0nq25jxy.jpg
+Content Type: image/jpeg
+
+Uri: https://jakehamblin.com/temp/img/oh8pjks8.png
+File Name: C:\Users\joshu\Documents\modern\www.jakehamblin.com\temp\img\oh8pjks8.png
+Content Type: image/png
+
+Uri: https://jakehamblin.com/css/portfolio.css
+File Name: C:\Users\joshu\Documents\modern\www.jakehamblin.com\css\portfolio.css
+Content Type: text/css
+
+Uri: https://jakehamblin.com/js/portfolio.js
+File Name: C:\Users\joshu\Documents\modern\www.jakehamblin.com\js\portfolio.js
+Content Type: application/javascript
+
+Uri: https://jakehamblin.com/products/
+File Name: C:\Users\joshu\Documents\modern\www.jakehamblin.com\products\index.htm
+Content Type: text/html
+

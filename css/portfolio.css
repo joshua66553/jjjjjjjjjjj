@@ -1,0 +1,124 @@
+.top {
+	height: auto;
+}
+
+.top .items {
+	display: grid;
+	min-height: 50vh;
+	width: 80%;
+	padding: 19vh 10% 7.5vh 10%;
+	grid-auto-rows: 1fr;
+	grid-column-gap: 2.5%;
+	grid-row-gap: 3vh;
+	grid-template-columns: repeat(3, 1fr);
+	position: relative;
+	z-index: 2;
+}
+
+.top .items .item {
+	width: 25.3vw;
+	height: 12.74vw;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+	border-radius: .75vh;
+}
+
+.top .items .item:hover > .screen {
+	background-color: rgba(12, 21, 28, .5);
+}
+
+.top .items .item:hover > .screen p {
+	opacity: .9;
+}
+
+.top .items .item:hover > .screen h1 {
+	opacity: 1;
+}
+
+.top .items .item .screen {
+	display: flex;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background-color: rgba(12, 21, 28, 0);
+	transition: .5s ease;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	border-radius: .75vh;
+}
+
+.top .items .item .screen p {
+	display: block;
+	position: absolute;
+	font-size: 5vh;
+	opacity: 0;
+	top: 1vh;
+	right: 3%;
+	color: #fff;
+	margin: 0;
+	text-align: right;
+	transition: .5s ease;
+}
+
+.top .items .item .screen h1 {
+	font-size: 2.5vh;
+	color: #fff;
+	margin: 0;
+	opacity: 0;
+	transition: .5s ease;
+}
+
+.footer {
+	padding: 4vh 10%;
+	width: 80%;
+	text-align: center;
+	background-color: #0c151c;
+	z-index: 2;
+	position: relative;
+}
+
+.footer .socialmedia {
+	display: flex;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 3vh;
+}
+
+.footer .socialmedia a {
+	display: flex;
+	height: 4vh;
+	width: 4vh;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+	text-decoration: none;
+	font-size: 2vh;
+	margin: 0 1%;
+	border-radius: 50%;
+}
+
+.footer p {
+	font-size: 1.75vh;
+	color: #fff;
+	margin: 0;
+}
+
+@media screen and (max-width: 600px), (orientation : portrait) {
+	.top .items {
+		grid-template-columns: repeat(1, 1fr);
+	}
+
+	.top .items .item {
+		width: 80vw;
+		height: 40.28vw;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		position: relative;
+		border-radius: .75vh;
+	}
+}
